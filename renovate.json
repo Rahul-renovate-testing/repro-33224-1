@@ -1,0 +1,12 @@
+{
+  "hostRules": [
+    {
+      "matchHost": "some.vendor.com",
+      "hostType": "packagist",
+      "encrypted": {
+        "username": "sjdhcbjksdhbckhsdbkcdhbd",
+        "password": "ilabncviasubvaskuvbauibcv"
+      }
+    }
+  ]
+}
